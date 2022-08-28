@@ -13,6 +13,11 @@ Hello, This is Myung Guk Lee. I know it is not easy to pronounce, so I let peopl
 Computer Networks
 ======
 
+VLAN
+<p align="center">
+  <img src="images/VLAN.png" width="350" title="hover text">
+</p>
+
 Android
 =====
 

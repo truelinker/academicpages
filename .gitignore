@@ -1,4 +1,5 @@
 _site/
 .devcontainer
 Gemfile.lock
+images/.DS_Store
 
